@@ -1,4 +1,4 @@
 # calculator
 calculator app
 
-i love :pizza, :coffee and :you
+i love :pizza:, :coffee: and ammir
